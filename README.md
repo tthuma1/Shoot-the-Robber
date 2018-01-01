@@ -5,3 +5,5 @@ You are Sheriff in the Wild West. A robber robbed a bank so now you need to shoo
 
 ## Requirements
 - pygame
+## .exe Download
+https://chicken-gamer.itch.io/shoot-the-robber
